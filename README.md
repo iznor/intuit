@@ -1,5 +1,7 @@
 # intuit
 
+Edit (03/06/2022 16:04) - I have posted a fix: https://github.com/iznor/intuit-fix
+------------------------------------------------------------------------
 Hi Israel, 
 
 Regarding the readme file, I would like to share some more points and feelings.
